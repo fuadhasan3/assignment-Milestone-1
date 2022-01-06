@@ -8,11 +8,12 @@ h1{
 }
 h2{
     font-size: 39px;
+    
 }
 h4{
     font-size: 29px;
 }
-.stay-home{
+.grand-ma{
     display: flex;
     margin-bottom: 250px;
     padding: 50px;
@@ -46,4 +47,78 @@ h4{
     color: rgb(61, 56, 56);
     font-weight: 500;
     border-radius: 5px;
+}
+#top-heading{
+    text-align: center;
+}
+.color-etc{
+    color: rgba(248, 72, 18, 0.877);
+}
+.newest-on{
+    display: flex;
+}
+.mission-in{
+    margin: 5%;
+    padding: 5%;
+    
+}
+.mission-one{
+    background-color: blanchedalmond;
+    border-radius: 10px;
+    margin-left: 5px;
+    padding-left: 30px;
+    margin-bottom: 15px;
+}
+.mission-one img{
+    width: 35%;
+}
+.mission-tow{
+    background-color: rgb(142, 236, 236);
+    border-radius: 10px;
+    margin-left: 5px;
+    padding-left: 30px;
+    margin-bottom: 15px;
+}
+.mission-tow img{
+    width: 35%;
+}
+.mission-three{
+    background-color: rgba(197, 248, 14, 0.658);
+    border-radius: 10px;
+    margin-left: 5px;
+    padding-left: 30px;
+    margin-bottom: 15px;
+    padding: 10px;
+}
+.mission-three img{
+    width: 35%;
+}
+.nort-west{
+    display: flex;
+}
+.nort-img{
+    width: 40%;
+    margin-left: 12%;
+    margin-top: 12%;
+}
+.Limits-wtn{
+    margin-top: 5%;
+}
+.east-west{
+    display: flex
+}
+.project-img{
+    width: 70%;
+    margin-left: 12%;
+    margin-top: 18%;
+}
+.global-wtn{
+    margin-top: 5%;
+    margin-left: 10%;
+}
+.footer-down{
+    text-align: center;
+    background-color: black;
+    color: white;
+    margin-top: 12%;
 }
