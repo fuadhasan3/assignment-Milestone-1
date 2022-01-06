@@ -122,3 +122,19 @@ h4{
     color: white;
     margin-top: 12%;
 }
+/*---Another section---*/
+.heading-one{
+    text-align: center;
+    margin-top: 15%;
+}
+.build-corona{
+    display: flex;
+    margin-left: 12%;
+    margin-top: 2%;
+}
+.corona-app{
+    width: 60%;
+   border-radius: 8px;
+   margin-top: 2%;
+    
+}
